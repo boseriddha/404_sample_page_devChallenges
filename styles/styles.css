@@ -1,0 +1,70 @@
+body {
+    font-family: 'Poppins', monospace;
+    font-size: 16px;
+}
+
+.title {
+    font-family: 'Inconsolata', monospace;
+    font-weight: 700;
+    font-size: 1.5rem;
+    position: relative;
+    top: 3.70vh;
+    left: 5.34vw;
+}
+
+.description-header {
+    font-family: 'Space mono', monospace;
+    font-weight: 700;
+    font-size: 4rem;
+    letter-spacing: -0.035rem;
+    line-height: 95px;
+    height: 190px;
+    width: 586px;
+    margin: 40px;
+}
+
+.description-header-div {
+    position: absolute;
+    top: 24.53vh;
+    left: 51.04vw;
+}
+
+.description p {
+    font-family: 'Space mono', monospace;
+    font-weight: 400;
+    font-size: 1.5rem;
+    height: 108px;
+    width: 381px;
+    line-height: 36px;
+    letter-spacing: -0.035rem;
+    margin: 40px;
+}
+
+.description {
+    position: absolute;
+    top: 45.46vh;
+    left: 51.04vw;
+}
+
+.scarecrow-img {
+    height: 415px;
+    width: 540px;
+    position: absolute;
+    top: 24.5vh;
+    left: 5.34vw;
+}
+
+.homepage-button {
+    font-family: 'Space mono', monospace;
+    font-weight: 700;
+    font-size: 0.875rem;
+    position: absolute;
+    left: 51.04vw;
+    top: 61.33vh;
+    padding: 24px 44px;
+    background-color: #333333;
+    color: white;
+    text-decoration: none;
+    display: inline-block;
+    margin: 40px;
+}
